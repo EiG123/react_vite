@@ -40,7 +40,11 @@
 .read-the-docs {
   color: #888;
 }
- img{
+img {
   width: 100px;
   height: 100px;
- }
+}
+
+.App{
+  margin: 30px 70px;
+}

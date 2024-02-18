@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <img src={logo} alt="logo" />
-      <h2>React + Vite</h2>
+      <h2>เครื่องมือพัฒนาเว็บ React + Vite</h2>
       <p>EiG123</p>
       {content.map((data)=>{
         return(
